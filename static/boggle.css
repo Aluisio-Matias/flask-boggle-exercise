@@ -1,0 +1,11 @@
+
+  .msg.ok {
+    color: white;
+    background-color: green;
+  }
+  
+  .msg.err {
+    color: white;
+    background-color: tomato;
+  }
+  
